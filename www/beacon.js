@@ -1,5 +1,4 @@
 
-alert('Beacon plugin');
 var exec = require('cordova/exec');
                
 exports.custom = function (){

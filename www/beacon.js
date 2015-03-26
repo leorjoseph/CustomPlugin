@@ -1,5 +1,5 @@
-cordova.define("de.appplant.cordova.plugin.beacon.Beacon", function(require, exports, module) {
-               alert('Beacon plugin');
+
+alert('Beacon plugin');
 var exec = require('cordova/exec');
                
 exports.custom = function (){
@@ -22,5 +22,3 @@ exports.custom = function (){
                             );
                
 }
-        
-});
